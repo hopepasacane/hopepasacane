@@ -2,17 +2,15 @@
 
 ## Personal Narrative
 
-I’m a Communications student at James Madison University studying Public Relations and Digital Media. I’m passionate about building connections, learning how to create engaging content, and using communication to make an impact.
+ I'm from Boston, Massachusetts, and I attend James Madison University, where I'm studying Public Relations and Digital Media. I’m passionate about building connections, and learning how to create engaging content.
+<img width="1600" height="1200" alt="68b70965b3020f0611b7ed7a_jmu" src="https://github.com/user-attachments/assets/689faad8-7f32-4187-9906-1fb695ec9bfc" />
 
-## 🌟 About Me
+## About Me! 
 
 - 🎓 Communications student at James Madison University
-- 📣 Major: Public Relations
-- 💻 Minor: Digital Media
-- 💼 Future career field: TBD
-- 📱 Interested in social media, branding, and marketing
-- 🤝 Passionate about connecting with others
-- ✨ Always looking for opportunities to learn and grow
+- 🎓 Major: Public Relations Minor: Digital Media
+- 👩🏼‍💼 Future career field: TBD
+- 💡 Interested in social media, branding, and marketing
 
 ## 💻 Technical Skills
 
