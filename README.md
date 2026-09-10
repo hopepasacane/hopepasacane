@@ -1,4 +1,5 @@
-# ✨ Hope Pasacane | Boston, Massachusetts 🦞
+# ✨ Hope Pasacane | Boston, Massachusetts 🦞<img width="948" height="353" alt="9075a0bb-9138-40f1-8cab-5b0a3e2bbe9b" src="https://github.com/user-attachments/assets/4c358f0b-6513-4241-a53b-85342224a66c" />
+
 
 ## Personal Narrative
 
