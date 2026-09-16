@@ -3,7 +3,7 @@
 
 ## Personal Narrative
 
- I'm from Boston, Massachusetts, and I attend James Madison University, where I'm studying Public Relations and Digital Media. I’m passionate about building strong relationships, creating engaging content, and using communication skills to connect people and brands. I’m interested in careers that combine sales, media, marketing, and communication, with a focus on building relationships, creating engaging content, and connecting brands with their audiences.
+ I'm from Boston, Massachusetts, Im a junior at James Madison University, where I'm studying Public Relations and Digital Media. I’m passionate about building strong relationships, creating engaging content, and using communication skills to connect people and brands. I’m interested in careers that combine sales, media, marketing, and communication, with a focus on building relationships, creating engaging content, and connecting brands with their audiences.
 
 ## About Me! 
 
